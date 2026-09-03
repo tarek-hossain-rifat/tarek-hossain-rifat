@@ -4,6 +4,10 @@
 
 <h2 align="center"><strong>Hi 👋, I'm Tarek Hossain Rifat</strong></h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=4th+Student+of+CSE+in+UIU;Full+Stack+Developer;Interested+in+AI%2FML" alt="Typing Animation" />
+</p>
+
 ---
 
 <h3 align="left">About Me:</h3>
