@@ -6,6 +6,22 @@
 
 ---
 
+<h3 align="left">About Me:</h3>
+
+<p>
+  I am a passionate developer from Bangladesh who enjoys building clean, responsive, and user-friendly web applications. I am currently focused on improving my frontend and backend development skills while exploring modern technologies.
+</p>
+
+<ul>
+  <li>🌱 I am currently learning <strong>React</strong> and modern frontend development.</li>
+  <li>💻 I am exploring <strong>backend development</strong> with Node.js and related technologies.</li>
+  <li>🤖 I am interested in <strong>AI/ML</strong> and want to explore how AI can be integrated into web applications.</li>
+  <li>🚀 I enjoy building projects and learning new technologies through hands-on practice.</li>
+  <li>🎯 My goal is to become a strong <strong>Full Stack Developer</strong>.</li>
+</ul>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
