@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./GitHub_Banner.jpg" alt="Tarek Hossain Rifat GitHub Banner" width="100%">
+</p>
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <h3 align="left">Connect with me:</h3>
