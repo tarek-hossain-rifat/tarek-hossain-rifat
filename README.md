@@ -133,13 +133,20 @@
 
 <h3 align="left">GitHub Statistics:</h3>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarek-hossain-rifat&show_icons=true&locale=en&layout=compact" alt="tarek-hossain-rifat" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarek-hossain-rifat&layout=compact&langs_count=8"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
 
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarek-hossain-rifat&show_icons=true&locale=en" alt="tarek-hossain-rifat" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tarek-hossain-rifat&show_icons=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+    height="180"
+  />
 </p>
 
 <p>
