@@ -133,22 +133,6 @@
 
 <h3 align="left">GitHub Statistics:</h3>
 
-<!-- <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarek-hossain-rifat&layout=compact&langs_count=8"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tarek-hossain-rifat&show_icons=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-    height="180"
-  />
-</p> -->
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarek-hossain-rifat" alt="Tarek Hossain Rifat GitHub Streak" />
 </p>
